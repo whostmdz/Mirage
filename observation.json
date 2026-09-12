@@ -1,0 +1,7 @@
+[
+  {"time_s": 0,  "altitude_m": 3000},
+  {"time_s": 10, "altitude_m": 3020},
+  {"time_s": 20, "altitude_m": 3040},
+  {"time_s": 30, "altitude_m": 5040},
+  {"time_s": 40, "altitude_m": 5060}
+]
